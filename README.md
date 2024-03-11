@@ -34,6 +34,7 @@
     <img align="center" alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" >
     <img align="center" alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" >
     <img align="center" alt="Tailwind" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" >
+    <img align="center" alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" >
     <img align ="right" alt ="gif" height ="300" src="https://media1.tenor.com/m/M3lexDdZRTEAAAAd/pixel-art.gif">
   </div>
 
